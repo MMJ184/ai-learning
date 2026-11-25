@@ -1,0 +1,8 @@
+# Python environment and caches (uv rebuilds these with `uv sync`)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
